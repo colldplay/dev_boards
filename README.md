@@ -1,0 +1,3 @@
+# dev_boards
+This is to collect & keep usefull info on development boards like:
+RPi, Beaglebone, Nvidia Jetson ...
